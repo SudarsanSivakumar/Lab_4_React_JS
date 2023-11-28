@@ -1,0 +1,25 @@
+{
+  "expenseDb": [
+    {
+      "payeeName": "Manju",
+      "product": "Car Maintenance",
+      "price": 10,
+      "setDate": "2022-07-01",
+      "id": 1
+    },
+    {
+      "payeeName": "Manju",
+      "product": "recharge",
+      "price": 10,
+      "setDate": "2023-11-27",
+      "id": 2
+    },
+    {
+      "payeeName": "Suresh",
+      "product": "grosery",
+      "price": 100,
+      "setDate": "2023-11-26",
+      "id": 3
+    }
+  ]
+}
